@@ -1,0 +1,23 @@
+h1{
+    color:blue;
+}
+
+.header{
+    background-color: pink;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.Allgames{
+display:flex;
+flex-wrap: wrap;
+justify-content: space-between;
+
+}
+.SocialMedia{
+display:flex;    
+justify-content:flex-end;
+}
+h2,p{
+ text-align: center;   
+}
